@@ -1,19 +1,16 @@
 ### Hi there 👋
 
-My name is Leonard and I'm an 18 year old Full Stack Web Developer from Romania.
+My name is Alexandru and I'm an 15 year old Web Developer from Romania.
 
-- 🏢 I'm currently working on a personal project, a multi purpose, open source [`discord`] bot. You can find all related repos [@valet].
-- 🌱 Learning all about [`Typescript`] & [`Angular`]
+- 🏢 I'm currently working on a personal project, a multi purpose, open source [`discord`] bot.
 - 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
 - 😄 Pronouns: **he/him**
 - ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
 
 #### 📫 How to reach me
-   - <img src="https://i.imgur.com/AiIxUPV.png" alt="Instagram" width="24" align="center"> [`leonardssh22`]
-   - <img src="https://i.imgur.com/c0vbu2a.png" alt="Twitter" width="24" align="center"> [`leonardssh_22`]
-   - <img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="24" align="center"> [`leonardssh`]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="24" align="center"> [`Leonard#6666`]
-   - <img src="https://i.imgur.com/GL4DGyV.png" alt="Gmail" width="24" align="center"> [`contact@leonard.pw`]
+   <!--- <img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="24" align="center"> [`leonardssh`]-->
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="24" align="center"> [`Zeolite#1337`]
+   - <img src="https://i.imgur.com/GL4DGyV.png" alt="Gmail" width="24" align="center"> [`contact@datahash.xyz`]
    
 #### 🌟 Skills
    - Fast learner
@@ -56,8 +53,8 @@ My name is Leonard and I'm an 18 year old Full Stack Web Developer from Romania.
 [`leonardssh22`]:          https://www.instagram.com/leonardssh22/
 [`leonardssh_22`]:         https://twitter.com/leonardssh_22
 [`leonardssh`]:            https://dev.to/leonardssh
-[`Leonard#6666`]:          https://discord.com/users/290131759159443457
-[`contact@leonard.pw`]:    mailto:contact@leonard.pw
+[`Zeolite#1337`]:          https://discord.com/users/737665453090144261
+[`contact@datahash.xyz`]:    mailto:contact@datahash.xyz
 
 [`HTML5`]:                 https://developer.mozilla.org/en-US/docs/Web/HTML
 [`CSS3`]:                  https://developer.mozilla.org/en-US/docs/Web/CSS
@@ -78,12 +75,3 @@ My name is Leonard and I'm an 18 year old Full Stack Web Developer from Romania.
 [`Sublime Text 3`]:        https://www.sublimetext.com/
 
 <!--END_SECTION:links-->
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LeonardSSH&show_icons=true&title_color=9fa6b2&icon_color=6875f5&text_color=eeeeee&bg_color=16171b&count_private=true&hide_border=true" alt="Github Stats" align="center">
-</p>
-
-<p align="center">
-    &emsp;
-    <a href="https://pufler.dev/git-badges/" target="_blank"><img src="https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=6875f5&logo=github"></a>
-</p>
