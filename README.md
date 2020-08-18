@@ -39,7 +39,6 @@ My name is Alexandru and I'm an 15 year old Web Developer from Romania.
    - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Node Package Manager" width="26" align="center"> [`npm`]
    - <img src="https://i.imgur.com/SrEvsTW.png" alt="MySQL" width="26" align="center"> [`MySQL`]
    - <img src="https://i.imgur.com/tay0UdE.png" alt="MongoDB" width="26" align="center"> [`MongoDB`]
-   - <img src="https://i.imgur.com/RsvQjc0.png" alt="PostgreSQL" width="26" align="center"> [`PostgreSQL`]
    - <img src="https://i.imgur.com/OHsveKl.png" alt="VSCode" width="26" align="center"> [`VSCode`]
    - <img src="https://i.imgur.com/IgESTvh.png" alt="Sublime Text 3" width="26" align="center"> [`Sublime Text 3`]
 
@@ -70,7 +69,6 @@ My name is Alexandru and I'm an 15 year old Web Developer from Romania.
 [`npm`]:                   https://npmjs.com
 [`MySQL`]:                 https://www.mysql.com/
 [`MongoDB`]:               https://www.mongodb.com/
-[`PostgreSQL`]:            https://www.postgresql.org/
 [`VSCode`]:                https://code.visualstudio.com/
 [`Sublime Text 3`]:        https://www.sublimetext.com/
 
