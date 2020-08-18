@@ -11,7 +11,7 @@ My name is Alexandru and I'm an 15 year old Web Developer from Romania.
    <!--- <img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="24" align="center"> [`leonardssh`]-->
    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="24" align="center"> [`Zeolite#1337`]
    - <img src="https://i.imgur.com/GL4DGyV.png" alt="Gmail" width="24" align="center"> [`contact@datahash.xyz`]
-   - <img src="https://avatars1.githubusercontent.com/u/38909583?s=460&u=d52e6c7ec9fa3c532ed1220b289444dcecc67211&v=4" alt="Datahash" width="24" align="center"> [`datahash`]
+   - <img src="https://avatars1.githubusercontent.com/u/38909583?s=460&u=d52e6c7ec9fa3c532ed1220b289444dcecc67211&v=4" alt="Datahash" width="24" align="center"> [`datahash.xyz`]
    
 #### 🌟 Skills
    - Fast learner
@@ -55,7 +55,7 @@ My name is Alexandru and I'm an 15 year old Web Developer from Romania.
 [`leonardssh`]:            https://dev.to/leonardssh
 [`Zeolite#1337`]:          https://discord.com/users/737665453090144261
 [`contact@datahash.xyz`]:    mailto:contact@datahash.xyz
-[`datahash`]:              https://datahash.xyz
+[`datahash.xyz`]:              https://datahash.xyz
 
 [`HTML5`]:                 https://developer.mozilla.org/en-US/docs/Web/HTML
 [`CSS3`]:                  https://developer.mozilla.org/en-US/docs/Web/CSS
