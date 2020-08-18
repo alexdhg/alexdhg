@@ -2,8 +2,8 @@
 
 My name is Alexandru and I'm an 15 year old Web Developer from Romania.
 
-- 🏢 I'm currently working on a personal project, a multi purpose, open source [`discord`] bot.
-- 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
+- 🏢 I'm currently working on a personal project, a multi purpose, open source [`discord`] bot and some other projects.
+- 💬 Ping me about **web dev**, **tech**, **back-end**, **guns**
 - 😄 Pronouns: **he/him**
 - ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
 
