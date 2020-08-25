@@ -45,6 +45,9 @@ My name is Alexandru and I'm an 15 year old Web Developer from Romania.
 
 <hr>
 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <!--START_SECTION:links-->
 
 [`discord`]:               https://discord.com/
