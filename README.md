@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=alexdhg&color=7C3138&style=flat-square)
 
-### 💻 Tech Stack
+<!--### 💻 Tech Stack
 These are my favorite tech stack for building all kinds of stuff.
 
    * **Backend** - PHP
@@ -9,6 +9,7 @@ These are my favorite tech stack for building all kinds of stuff.
    * **Datastores** - MySQL, MariaDB
    * **Tools** - Github, VS Code
    * **Other** - Linux
+-->
 
 ---
 
