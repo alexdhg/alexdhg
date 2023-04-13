@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
     width="30px" height="30px">, I'm Alex</h1>
-<h3 align="center">A passionate web developer and CyberSecurity Enthusiast</h3>
+<h3 align="center">A passionated Web developer and Cybersecurity Enthusiast</h3>
 
 <!--### 💻 Tech Stack
 These are my favorite tech stack for building all kinds of stuff.
