@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on refining the user interface for a new e-commerce platform, focusing on enhancing the checkout process and optimizing loading times.  
   
 
-- 🌱 I’m currently learning new stuff about WebOps  
+- 🌱 I’m currently learning new stuff about WebOps. 
   
 
 - ⚡ Fun fact: The "QWERTY" keyboard layout was designed in the 1870s to prevent mechanical typewriter jams by placing commonly used letter pairs apart from each other, not for speed or efficiency.  
