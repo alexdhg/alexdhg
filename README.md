@@ -17,6 +17,8 @@
 
 <br/>  
 
+## Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/737665453090144261)](https://discord.com/users/737665453090144261)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
