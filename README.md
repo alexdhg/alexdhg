@@ -18,7 +18,15 @@
 <br/>  
 
 ## Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/737665453090144261)](https://discord.com/users/737665453090144261)
+<table align="center">
+  <tr>
+    <td>
+		<a href="https://discord.com/users/737665453090144261" target="_blank" rel="nofollow">
+			<img src="https://lanyard-profile-readme.vercel.app/api/737665453090144261?idleMessage=Doesn't have an active%20Rich%20Rich%20Presence..." alt="Discord Presence" align="center">
+		</a>
+    </td>
+  </tr>
+</table>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -96,6 +104,6 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=alexdhg&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=alexdhg&color=7C3138&style=flat-square" align="center" />
 </div>  
 
