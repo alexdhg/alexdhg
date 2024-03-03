@@ -22,7 +22,7 @@
   <tr>
     <td>
 		<a href="https://discord.com/users/737665453090144261" target="_blank" rel="nofollow">
-			<img src="https://lanyard-profile-readme.vercel.app/api/737665453090144261?idleMessage=Doesn't%20have%20an%20active%20Rich%20Rich%20Presence..." alt="Discord Presence" align="center">
+			<img src="https://lanyard-profile-readme.vercel.app/api/737665453090144261?idleMessage=Doesn't%20have%20an%20active%20rich%20presence..." alt="Discord Presence" align="center">
 		</a>
     </td>
   </tr>
